@@ -1,0 +1,59 @@
+body {
+    background-color: #fee980;
+    color: #3d3545;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    color: black;
+    font-weight: bold;
+    margin: 40px 0;
+    text-transform: uppercase;
+    text-shadow: 0 4px #74ffcf;
+}
+
+.main-section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title {
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    text-shadow: 1px 2px #74ffcf;
+}
+
+h1 span {
+    font-size: 50px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media ul li {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.social-media ul li a {
+    color: #000000;
+    font-size: 24px;
+    text-shadow: 0 2px #74ffcf;
+}
+
+.social-media ul li a:hover {
+    color: #10a36f;
+    font-size: 24px;
+}
