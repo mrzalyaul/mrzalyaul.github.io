@@ -117,3 +117,18 @@ particlesJS('particles-js',
   }
 
 );
+
+
+// $(document).ready(function () {
+//   changeBackgroud();
+// });
+
+// changeBackgroud = () => {
+//   setTimeout(() => {
+//     var back = ["#1d2974", "#0095e6", "rgb(0, 149, 230)", "rgb(109, 173, 156)"];
+//     var rand1 = back[Math.floor(Math.random() * back.length)];
+//     var rand2 = back[Math.floor(Math.random() * back.length)];
+//     $('body').css('background', 'url(../img/background.svg) 50% 17vh no-repeat,linear-gradient(to left top, ' + rand1 + ', ' + rand2 + ') 0 0 no-repeat');
+//     changeBackgroud();
+//   }, 5000);
+// }
