@@ -1,0 +1,9 @@
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+  # CSS, JavaScript
+  ExpiresByType text/css "access plus 10 minutes"
+  ExpiresByType text/javascript "access plus 1 minutes"
+  ExpiresByType application/javascript "access plus 1 minutes"
+
+</IfModule>
