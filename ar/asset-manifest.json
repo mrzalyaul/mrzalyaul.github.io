@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/ar/static/css/main.84d048eb.chunk.css",
-    "main.js": "/ar/static/js/main.6c0d5e50.chunk.js",
-    "main.js.map": "/ar/static/js/main.6c0d5e50.chunk.js.map",
-    "runtime-main.js": "/ar/static/js/runtime-main.62748be2.js",
-    "runtime-main.js.map": "/ar/static/js/runtime-main.62748be2.js.map",
-    "static/js/2.11728d7c.chunk.js": "/ar/static/js/2.11728d7c.chunk.js",
-    "static/js/2.11728d7c.chunk.js.map": "/ar/static/js/2.11728d7c.chunk.js.map",
-    "index.html": "/ar/index.html",
-    "precache-manifest.7167023f91125abac6330630db0e05ae.js": "/ar/precache-manifest.7167023f91125abac6330630db0e05ae.js",
-    "service-worker.js": "/ar/service-worker.js",
-    "static/css/main.84d048eb.chunk.css.map": "/ar/static/css/main.84d048eb.chunk.css.map",
-    "static/js/2.11728d7c.chunk.js.LICENSE.txt": "/ar/static/js/2.11728d7c.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ar/static/media/JannaLTRegular.378ee291.ttf"
+    "main.css": "./static/css/main.ce90aa18.chunk.css",
+    "main.js": "./static/js/main.1541a011.chunk.js",
+    "main.js.map": "./static/js/main.1541a011.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.70647feb.js",
+    "runtime-main.js.map": "./static/js/runtime-main.70647feb.js.map",
+    "static/css/2.07eacbe5.chunk.css": "./static/css/2.07eacbe5.chunk.css",
+    "static/js/2.11728d7c.chunk.js": "./static/js/2.11728d7c.chunk.js",
+    "static/js/2.11728d7c.chunk.js.map": "./static/js/2.11728d7c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.73fa55842f6c242e9f0145bc90d60afe.js": "./precache-manifest.73fa55842f6c242e9f0145bc90d60afe.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.07eacbe5.chunk.css.map": "./static/css/2.07eacbe5.chunk.css.map",
+    "static/css/main.ce90aa18.chunk.css.map": "./static/css/main.ce90aa18.chunk.css.map",
+    "static/js/2.11728d7c.chunk.js.LICENSE.txt": "./static/js/2.11728d7c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/JannaLTRegular.378ee291.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.62748be2.js",
+    "static/js/runtime-main.70647feb.js",
+    "static/css/2.07eacbe5.chunk.css",
     "static/js/2.11728d7c.chunk.js",
-    "static/css/main.84d048eb.chunk.css",
-    "static/js/main.6c0d5e50.chunk.js"
+    "static/css/main.ce90aa18.chunk.css",
+    "static/js/main.1541a011.chunk.js"
   ]
 }
