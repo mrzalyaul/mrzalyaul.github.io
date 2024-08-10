@@ -1,3 +1,3 @@
-# mrzalyaul.me
+# Personal Website - Coming Soon
 
-Portfolio website for Mohammed Rabie ZALYAUL
+Welcome to the repository for my personal website! The project is currently in development 🚧, and the full site will be launched soon. Stay tuned for updates.
