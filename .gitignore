@@ -1,2 +1,7 @@
 .idea/
 .vscode/
+
+.next/
+node_modules/
+
+next-env.d.ts
