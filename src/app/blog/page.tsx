@@ -2,7 +2,7 @@ export default function Page() {
     return (
         <div>
             <h1>Blog</h1>
-            <h3>List of blog posts</h3>
+            <h3>This is the blog page</h3>
 
             <div>
                 <h2>Post 1</h2>
